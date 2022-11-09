@@ -11,6 +11,7 @@ A graph-theoretical formalism is proposed to study generic circuit quantum elect
 </script>
 
 
-`$z = x + y$`
+`$\hat{H}_{q}=-\frac{1}{2}(\varepsilon_{0}\sigma _{z}+\varepsilon(t) \sigma _{x})$`
+
 
 
