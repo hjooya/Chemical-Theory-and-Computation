@@ -1,4 +1,4 @@
-#### Graph-Theoretical Representation of Multiphoton Resonance Processes
+### Graph-Theoretical Representation of Multiphoton Resonance Processes
 
 [Hossein Jooya, *et. al.*, Scientific Reports 6, 37544](https://www.nature.com/articles/srep37544)
 
