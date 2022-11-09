@@ -1,0 +1,11 @@
+FC = /...home.../intel/oneapi/compiler/2022.2.0/linux/bin/intel64/ifort
+OP = -i8
+LIB = -L /...home.../intel/oneapi/mkl/2022.2.0/lib/intel64/ \
+      -lmkl_intel_ilp64 -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lm -ldl
+
+LongitudCode : Longitudinal_Coupling.o
+	$(FC) $(OP) -o LongitudCode Longitudinal_Coupling.o $(LIB)
+Longitudinal_Coupling.o : Longitudinal_Coupling.f90
+	$(FC) $(OP) -c Longitudinal_Coupling.f90
+
+
