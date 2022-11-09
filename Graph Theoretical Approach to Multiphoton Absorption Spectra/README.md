@@ -6,7 +6,7 @@ A graph-theoretical formalism is proposed to study generic circuit quantum elect
 
 ### Usage
 
-Simply compile and run the `Transverse_Coupling.f90` to obtain the transition probabilities and corresponding quasi-energies, as reported in Fig.(1) of the above referenced publication. Notice how only `odd` transitions are aloowe. This algorithm is suitable to model natural atoms which couple with electromagnetic fields at transverse mode due to the well-defined inversion symmetry of the potential energy. Within the Bloch 
+Simply compile the Makefile, 'Make_Transverse_Coupling', to run the `Transverse_Coupling.f90` and obtain the transition probabilities and corresponding quasi-energies, as reported in Fig.(1) of the above referenced publication. Notice how only `odd` transitions are aloowe. This algorithm is suitable to model natural atoms which couple with electromagnetic fields at transverse mode due to the well-defined inversion symmetry of the potential energy. Within the Bloch 
 representation, the time-dependent Hamiltonian of such two-level atom with transverse coupling is given by `H=-(1/2)[e0 sigma_z + e(t) sigma_x]` where `e0` is the separation between the energy levels, and `e(t)` is the microwave drive. `sigma_x` and `sigma_z` represent the Pauli matrices.
 
 ![alt text](https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Transverse_Coupling.jpg)
