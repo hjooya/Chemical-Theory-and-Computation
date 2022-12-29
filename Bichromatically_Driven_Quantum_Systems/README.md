@@ -4,6 +4,9 @@
 
 ![](https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Bichromatically_Driven_Quantum_Systems/Bichromatic_Driven_TLS.gif)
 
+<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Bichromatically_Driven_Quantum_Systems/Bichromatic_Driven_TLS.gif" width="250" height="250"/>
+
+
 
 A graph-theoretical formalism is proposed to study generic circuit quantum electrodynamics systems consisting of a two level qubit coupled with a single-mode resonator in arbitrary coupling strength regimes beyond rotating-wave approximation. The intuitive and predictive picture provided by this method, and the simplicity of the mathematical construction, are demonstrated with some numerical studies of the multiphoton resonance processes and quantum interference phenomena for the superconducting qubit systems driven by intense ac fields.
 
