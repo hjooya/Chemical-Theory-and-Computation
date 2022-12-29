@@ -2,9 +2,6 @@
 
 [Hossein Jooya, *et. al.*, Phys. Rev. B 96, 174518](https://www.nature.com/articles/srep37544)
 
-![](https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Bichromatically_Driven_Quantum_Systems/Bichromatic_Driven_TLS.gif)
-
-
 <p align="center">
 <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Bichromatically_Driven_Quantum_Systems/Bichromatic_Driven_TLS.gif" width="500" height="250"/>
 </p>
