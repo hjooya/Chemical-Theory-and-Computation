@@ -10,7 +10,7 @@ Simply compile the Makefile, 'Makefile_Transverse_Coupling', to run the `Code_Tr
 representation, the time-dependent Hamiltonian of such two-level atom with transverse coupling is given by `H=-(1/2)[e0 sigma_z + e(t) sigma_x]` where `e0` is the separation between the energy levels, and `e(t)` is the microwave drive. `sigma_x` and `sigma_z` represent the Pauli matrices.
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Transverse_Coupling.jpg" width="600" height="300" />
+  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Transverse_Coupling.jpg" width="600" height="200" />
 </p>
 
 
@@ -18,13 +18,13 @@ Since the potential energy for superconducting qubits can be tuned, the inversio
 processes can be observed. The existence of the longitudinal coupling between superconducting qubits and applied magnetic fields have been observed, when the inversion symmetry of the potential energy of the superconducting qubit is broken. The time dependent Hamiltonian with the longitudinal coupling is given by `H=-(1/2)[e(t) sigma_z + D sigma_x]` where `D (Delta)` is the tunnel splitting. Simply compile and run `Code_Longitudinal_Coupling.f90` and see the results are shown below and presented in Fig.(2) of the cited publication. Notice how both `odd` and `even` transitions are observed in this model.
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Longitudinal_Coupling.jpg" width="600" height="300" />
+  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Longitudinal_Coupling.jpg" width="600" height="200" />
 </p>
 
 It has been shown that superconducting qubits and external fields can have both transverse and longitudinal coupling. The `Code_Bidirectional_Coupling.f90` algorithm models such light-matter interactions. The result should look like below and as discussed in Fig.(5) of the referenced article.
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Bidirectional_Coupling.jpg" width="600" height="300" />
+  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/Image_Bidirectional_Coupling.jpg" width="600" height="200" />
 </p>
 
 ### Conclusion
