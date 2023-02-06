@@ -9,6 +9,9 @@
   <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="500" height="300" />
 </p>
 
+<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/Penicillamine_MD_Simulation.gif" width="400" height="200"/> <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="500" height="300" />
+
+
 ### Introduction
 In this example, we show how [Psi4](https://psicode.org/), an open-source suite of ab initio quantum chemistry programs, is used for molecular dynamics (MD) simulations. This Psi-MATLAB workflow starts with a single molecular structure input, rotates it around a C-C bond, and calculates the molecular energy at the desired theory level at each time step.  The output of the Psi4 computations is then processed in MATLAB to extract data and to build a single .mat file for further analysis.  
 
