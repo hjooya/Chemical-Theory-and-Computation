@@ -2,11 +2,11 @@
 
 
 <p align="left">
-<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/Penicillamine_MD_Simulation.gif" width="500" height="250"/>
+<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/Penicillamine_MD_Simulation.gif" width="400" height="200"/>
 </p>
 
 <p align="right">
-  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="300" height="300" />
+  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="500" height="300" />
 </p>
 
 ### Introduction
