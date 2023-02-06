@@ -1,7 +1,7 @@
 ## Psi4-MATLAB Molecular Dynamics Simulation Workflow  
 
 
-<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/Penicillamine_MD_Simulation.gif" width="400" height="200"/> <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="300" height="200" />
+<img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/Penicillamine_MD_Simulation.gif" width="400" height="200"/> <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="350" height="200" />
 
 
 ### Introduction
