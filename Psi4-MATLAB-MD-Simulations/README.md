@@ -6,7 +6,7 @@
 </p>
 
 <p align="right">
-  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="600" height="200" />
+  <img src="https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Psi4-MATLAB-MD-Simulations/HF_Energy_Plot.jpg" width="300" height="300" />
 </p>
 
 ### Introduction
